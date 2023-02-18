@@ -1,3 +1,3 @@
 # Table of contents
 
-* [👋 Ashless Network](README.md)
+* [👋 Introduction](README.md)
